@@ -1,1 +1,1 @@
-print("JAI GANESH","JAI BAJARANGBALI")
+print("JAI GANESH","JAI BAJARANGBALI",end=" ")
