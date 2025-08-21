@@ -1,0 +1,1 @@
+print("JAI GANESH","JAI BAJARANGBALI")
